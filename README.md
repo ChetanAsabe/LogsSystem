@@ -2,6 +2,9 @@
 
 A full-stack log management system for ingesting, querying, and filtering logs with a simple file based storage.
 
+<img width="1911" height="908" alt="Screenshot 2026-01-11 150950" src="https://github.com/user-attachments/assets/b54d7e64-6120-471a-be98-2ccec675e085" />
+
+
 ## Overview
 
 - **Log Ingestion**: REST API endpoint to ingest logs with validation
